@@ -1,3 +1,3 @@
 # Aprender
 
-Server apenas para exprementar com a linguagem rust
+Serve apenas para exprementar com a linguagem rust
